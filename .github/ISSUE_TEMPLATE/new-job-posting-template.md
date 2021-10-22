@@ -52,7 +52,7 @@ Great things waiting for you...
 
 ## About us
 
-Brief about company
+Brief about your company
 
 ## Contact
 

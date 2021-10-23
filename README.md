@@ -9,7 +9,7 @@ Please follow our posting format, or your job posting will be ___deleted after 3
 
 # How to post a job
 
-1. [Submit an issue ticket](https://github.com/itguru-jobs/developer/issues/new).
+1. [Submit an issue ticket](https://github.com/itguru-jobs/developer/issues/new/choose).
 2. After your submission, we will review and approve to display to the public.
 
 # How long will a job post live?

@@ -14,7 +14,7 @@ An overview about the job
 
 ## Location
 
-* Working location (Hanoi, Danang, Saigon, Singapore)
+* Working location (Hanoi, Danang, Saigon, Singapore...)
 * Remote (if applicable)
 
 ## Job Type
@@ -23,9 +23,9 @@ An overview about the job
 * Part-time
 * Contract
 
-## Compensation
+## Salary
 
-* $????/month or range
+* $???/month or range
 
 ## Requirements
 
